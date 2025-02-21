@@ -41,9 +41,9 @@ The CNN architecture consists of:
 
 ## Big Data Implementation
 Apache Spark was used to handle large-scale datasets efficiently:
-* **Distributed Training:** Leveraged **10 Linux VMs** to speed up processing
-* **Scalability Testing:** Benchmarked Spark performance using **2 vs. 7 vs. 10VMs**, showing improved efficiency with increased resources
-* **Processing Time:** **59 minutes** using 10 VMs
+* **Distributed Training:** Leveraged **7 Linux VMs** to speed up processing
+* **Scalability Testing:** Benchmarked Spark performance using **2 vs. 7VMs**, showing improved efficiency with increased resources
+* **Processing Time:** **59 minutes** using 7 VMs
 
 ## Model Performance
 Final evaluation metrics:
